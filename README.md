@@ -25,5 +25,5 @@
 
 <div>
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bojiii28&show_icons=true&theme=dark&locale=en&layout=compact" alt="bojiii28" /></p>
-<p><img  src="right" https://github-readme-streak-stats.herokuapp.com/?user=bojiii28&theme=dark" alt="bojiii28" /></p>
+<p><img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bojiii28&theme=dark" alt="bojiii28" /></p>
 </div>
