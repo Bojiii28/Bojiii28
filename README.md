@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is John Mark Enriquez</h2>
+<h2 align="left">Hi👋🏿! My name is John Mark Enriquez</h2>
 
 ###
 
