@@ -81,9 +81,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bojiii28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bojiii28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bojiii28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bojiii28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Bojiii28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bojiii28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
