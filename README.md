@@ -77,6 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bojiii28/Bojiii28/output/snake.svg" alt="Snake animation" />
+<img src="pacman.svg" alt="Snake animation" />
 
 ###
