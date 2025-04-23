@@ -8,12 +8,12 @@
 ###
 
 <h4 align="left">
-🔭 I’m currently working on Ticketing System<br><br>
-🌱 I’m currently learning PHP, JavaScript, MySQL & CSS<br><br>
  📍 I’m currently 21 years old<br><br>
 🎓 Education: Currently studying Bachelor of Industrial Technology Major in Computer Technology<br><br>
 🏫 School: Bulacan State University – Hagonoy Campus<br><br>
+🌱 I’m currently learning PHP, JavaScript, MySQL & CSS<br><br>
 💻 Specialization: Full-Stack Web Development<br><br>
+🔭 I’m currently working on Ticketing System<br><br>
 📫 How to reach me johnmarkenriquez12l@gmail.com<br><br>
 ⚡ Fun fact: Octopuses have three hearts which is two more than most people have… and somehow they still ghost you.<br>Want another one? I got a whole stash of these 😏<br><br>
 🧠 Core Skills:<br>   
